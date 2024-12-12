@@ -5,6 +5,6 @@ Hello!
 
 This will be where I post my answers to the leetcode problems I practice starting with strings to ending with sorting and Hashmaps etc.
 
-Hope you enjoy I work I provide.
+Hope you enjoy the work I provide.
 
 - Allie
